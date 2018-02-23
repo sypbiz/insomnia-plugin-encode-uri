@@ -1,0 +1,27 @@
+{
+  "name": "insomnia-plugin-encode-uri",
+  "version": "1.0.0",
+  "description": "An Insomnia plugin for encoding URI",
+  "main": "plugin.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sypbiz/insomnia-plugin-encode-uri.git"
+  },
+  "keywords": [
+    "insomnia",
+    "plugin",
+    "encode",
+    "uri"
+  ],
+  "author": "Doron Guttman <doronguttman>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sypbiz/insomnia-plugin-encode-uri/issues"
+  },
+  "homepage": "https://github.com/sypbiz/insomnia-plugin-encode-uri#readme",
+  "insomnia": {
+    "name": "encodeURI",
+    "description": "Encodes text using encodeURIComponent"
+  }
+}
