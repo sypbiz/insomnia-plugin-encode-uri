@@ -14,7 +14,7 @@
     "encode",
     "uri"
   ],
-  "author": "Doron Guttman <doronguttman>",
+  "author": "Doron Guttman <dev+insomniaplugin@syp.biz>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/sypbiz/insomnia-plugin-encode-uri/issues"
